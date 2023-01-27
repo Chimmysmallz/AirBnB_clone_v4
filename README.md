@@ -219,6 +219,7 @@ github repo
 * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
 * David Kwan, [dwkwan](https://github.com/dwkwan) | [@davidwkwan](https://twitter.com/davidwkwan)
 * Drew Maring, [dmaring](https://github.com/dmaring) | [@drewmaring](https://twitter.com/drewmaring)
+* Chiamaka Nwabulue, [Chimmysmallz](https://github.com/Chimmysmallz)
 
 ## License
 
